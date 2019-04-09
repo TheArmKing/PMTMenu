@@ -7,7 +7,7 @@ Company - TheArmKing.xyz/Platinmods.com
 # Links
 Contact TheArmKing#1923 for any questions!\
 YouTube Link - \
-GitHub Repo - https://github.com/TheArmKing/PMTMenu\
+GitHub Repo - https://github.com/TheArmKing/PMTMenu \
 Platinmods.com Topic - 
 
 # What this Repo consists of:
