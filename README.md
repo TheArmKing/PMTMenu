@@ -9,7 +9,7 @@ Contact TheArmKing#1923 for any questions!\
 How to add to games -  https://youtu.be/WZ4VJNk579I \
 How to use in-game - https://youtu.be/JPv6cs64Jx8 \
 GitHub Repo - https://github.com/TheArmKing/PMTMenu \
-Platinmods.com Topic - 
+Platinmods.com Topic - https://platinmods.com/threads/unity-menu-pmtmenu-v3-public-release-400k-member-celebration.57827/
 
 # What this Repo consists of:
 
