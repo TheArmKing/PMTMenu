@@ -6,7 +6,8 @@ Company - TheArmKing.xyz/Platinmods.com
 
 # Links
 Contact TheArmKing#1923 for any questions!\
-YouTube Link - \
+How to add to games -  https://youtu.be/WZ4VJNk579I \
+How to use in-game - https://youtu.be/JPv6cs64Jx8 \
 GitHub Repo - https://github.com/TheArmKing/PMTMenu \
 Platinmods.com Topic - 
 
