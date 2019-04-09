@@ -1,0 +1,11 @@
+TheArmKing.MainScript.PreInit();
+TheArmKing.gameTitle = "Gemini";
+TheArmKing.modder = "TheArmKing";
+TheArmKing.mTitle = "PLATINMODS.COM";
+TheArmKing.AddButtons.Normal("Button1", "Desc1");
+TheArmKing.AddButtons.Normal("Button2", "Desc2");
+TheArmKing.AddButtons.Normal("Button3", "Desc3");
+TheArmKing.AddButtons.Normal("Button4", "Desc4");
+TheArmKing.MenuTheme = Theme.Blue;
+base.StartCoroutine(TheArmKing.MainScript.LoadFonts());
+TheArmKing.MainScript.MainInit();

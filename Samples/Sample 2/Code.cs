@@ -1,0 +1,12 @@
+TheArmKing.MainScript.PreInit();
+TheArmKing.gameTitle = "Gemini";
+TheArmKing.modder = "TheArmKing";
+TheArmKing.mTitle = "PLATINMODS.COM";
+TheArmKing.AddButtons.Normal("Button1", "Desc1");
+TheArmKing.AddButtons.TextInput("Integer Input", "Desc2", "Empty", 3, new string[] { "[^0-9]" }, false, true);
+TheArmKing.AddButtons.TextInput("Any Input", "Desc3", "Empty", 999999, null, false, true);
+TheArmKing.AddButtons.Normal("Button4", "Desc4");
+TheArmKing.AddButtons.NumberBox("NumberBox", "Desc5", 0, 100, 50, 10, false, true);
+TheArmKing.MenuTheme = Theme.Red;
+base.StartCoroutine(TheArmKing.MainScript.LoadFonts());
+TheArmKing.MainScript.MainInit();

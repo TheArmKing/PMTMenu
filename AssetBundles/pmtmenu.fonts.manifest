@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1394112909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa78256f8fcb80b94cb998e2e8ec1ff3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d60d1eb4c7e99bf6d119c16dc6d5ab4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Cartograph.ttf
+- Assets/ArialBold.ttf
+- Assets/Arial.ttf
+Dependencies: []
