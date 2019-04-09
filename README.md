@@ -1,8 +1,8 @@
 # Info
-Copyright ©TheArmKing, 2019
-Title - PMTMenu v3.0.1
-Description - Mod Menu Framework for Unity Mono (DLL) based games.
-Company - TheArmKing.xyz/Platinmods.com
+Copyright ©TheArmKing, 2019\
+Title - PMTMenu v3.0.1\
+Description - Mod Menu Framework for Unity Mono (DLL) based games.\
+Company - TheArmKing.xyz/Platinmods.com\
 
 # Links
 Contact TheArmKing#1923 for any questions!\
